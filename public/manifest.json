@@ -1,0 +1,15 @@
+{
+ "files": [
+  "fixtures_2026-27.csv",
+  "gw4_pred_vs_solio.csv",
+  "player_attack_2026-27_gw1-4.csv",
+  "player_defense_2026-27_gw1-4.csv",
+  "player_gw_2026-27.csv",
+  "player_match_2026-27.csv",
+  "team_attack_2026-27_gw1-4.csv",
+  "team_defense_2026-27_gw1-4.csv",
+  "team_match_2026-27.csv",
+  "team_prior_rates_2025-26.json",
+  "xa_fpl_model.json"
+ ]
+}
