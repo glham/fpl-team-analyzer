@@ -39,26 +39,26 @@ event,home,away,started
 4,Coventry City,Brighton,True
 4,Man Utd,Man City,True
 4,Leeds,Newcastle,True
-5,Brentford,Chelsea,False
-5,Spurs,Aston Villa,False
-5,Brighton,Arsenal,False
-5,Everton,Ipswich Town,False
-5,Newcastle,Hull City,False
-5,Nott'm Forest,Coventry City,False
-5,Bournemouth,Liverpool,False
-5,Leeds,Crystal Palace,False
-5,Man City,Sunderland,False
-5,Fulham,Man Utd,False
-6,Arsenal,Leeds,False
-6,Aston Villa,Brentford,False
-6,Chelsea,Bournemouth,False
-6,Ipswich Town,Fulham,False
-6,Sunderland,Brighton,False
-6,Man Utd,Spurs,False
-6,Crystal Palace,Nott'm Forest,False
-6,Hull City,Everton,False
-6,Liverpool,Man City,False
-6,Coventry City,Newcastle,False
+5,Brentford,Chelsea,True
+5,Spurs,Aston Villa,True
+5,Brighton,Arsenal,True
+5,Everton,Ipswich Town,True
+5,Newcastle,Hull City,True
+5,Nott'm Forest,Coventry City,True
+5,Bournemouth,Liverpool,True
+5,Leeds,Crystal Palace,True
+5,Man City,Sunderland,True
+5,Fulham,Man Utd,True
+6,Arsenal,Leeds,True
+6,Aston Villa,Brentford,True
+6,Chelsea,Bournemouth,True
+6,Ipswich Town,Fulham,True
+6,Sunderland,Brighton,True
+6,Man Utd,Spurs,True
+6,Crystal Palace,Nott'm Forest,True
+6,Hull City,Everton,True
+6,Liverpool,Man City,True
+6,Coventry City,Newcastle,True
 7,Everton,Chelsea,False
 7,Brentford,Liverpool,False
 7,Fulham,Hull City,False
@@ -89,36 +89,36 @@ event,home,away,started
 9,Aston Villa,Fulham,False
 9,Liverpool,Arsenal,False
 9,Newcastle,Everton,False
+10,Everton,Coventry City,False
+10,Leeds,Spurs,False
 10,Arsenal,Hull City,False
+10,Fulham,Newcastle,False
+10,Nott'm Forest,Man City,False
 10,Brighton,Brentford,False
 10,Crystal Palace,Liverpool,False
-10,Everton,Coventry City,False
-10,Fulham,Newcastle,False
 10,Ipswich Town,Bournemouth,False
-10,Leeds,Spurs,False
-10,Man Utd,Aston Villa,False
-10,Nott'm Forest,Man City,False
 10,Sunderland,Chelsea,False
+10,Man Utd,Aston Villa,False
+11,Man City,Fulham,False
 11,Aston Villa,Sunderland,False
 11,Bournemouth,Nott'm Forest,False
-11,Brentford,Everton,False
 11,Chelsea,Leeds,False
 11,Coventry City,Crystal Palace,False
+11,Spurs,Ipswich Town,False
+11,Newcastle,Arsenal,False
 11,Hull City,Brighton,False
 11,Liverpool,Man Utd,False
-11,Man City,Fulham,False
-11,Newcastle,Arsenal,False
-11,Spurs,Ipswich Town,False
-12,Arsenal,Man City,False
-12,Brighton,Newcastle,False
-12,Crystal Palace,Hull City,False
-12,Everton,Liverpool,False
-12,Fulham,Bournemouth,False
-12,Ipswich Town,Aston Villa,False
+11,Brentford,Everton,False
+12,Nott'm Forest,Chelsea,False
 12,Leeds,Coventry City,False
 12,Man Utd,Brentford,False
-12,Nott'm Forest,Chelsea,False
+12,Ipswich Town,Aston Villa,False
+12,Everton,Liverpool,False
+12,Brighton,Newcastle,False
+12,Crystal Palace,Hull City,False
+12,Fulham,Bournemouth,False
 12,Sunderland,Spurs,False
+12,Arsenal,Man City,False
 13,Aston Villa,Everton,False
 13,Bournemouth,Brighton,False
 13,Brentford,Arsenal,False
