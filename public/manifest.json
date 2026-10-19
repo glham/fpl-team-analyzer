@@ -1,14 +1,14 @@
 {
  "files": [
   "fixtures_2026-27.csv",
-  "gw6_pred_vs_solio.csv",
   "gw7_pred_vs_solio.csv",
-  "player_attack_2026-27_gw1-6.csv",
-  "player_defense_2026-27_gw1-6.csv",
+  "gw8_pred_vs_solio.csv",
+  "player_attack_2026-27_gw1-7.csv",
+  "player_defense_2026-27_gw1-7.csv",
   "player_gw_2026-27.csv",
   "player_match_2026-27.csv",
-  "team_attack_2026-27_gw1-6.csv",
-  "team_defense_2026-27_gw1-6.csv",
+  "team_attack_2026-27_gw1-7.csv",
+  "team_defense_2026-27_gw1-7.csv",
   "team_match_2026-27.csv",
   "team_prior_rates_2025-26.json",
   "xa_fpl_model.json"
