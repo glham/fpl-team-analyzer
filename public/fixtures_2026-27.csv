@@ -68,7 +68,7 @@ event,home,away,started
 7,Brighton,Crystal Palace,True
 7,Leeds,Man Utd,True
 7,Nott'm Forest,Arsenal,True
-7,Spurs,Coventry City,False
+7,Spurs,Coventry City,True
 8,Ipswich Town,Nott'm Forest,False
 8,Aston Villa,Man City,False
 8,Arsenal,Everton,False
@@ -119,46 +119,46 @@ event,home,away,started
 12,Fulham,Bournemouth,False
 12,Sunderland,Spurs,False
 12,Arsenal,Man City,False
-13,Aston Villa,Everton,False
-13,Bournemouth,Brighton,False
-13,Brentford,Arsenal,False
-13,Chelsea,Crystal Palace,False
 13,Coventry City,Ipswich Town,False
+13,Chelsea,Crystal Palace,False
 13,Hull City,Nott'm Forest,False
 13,Liverpool,Sunderland,False
 13,Man City,Leeds,False
+13,Aston Villa,Everton,False
+13,Bournemouth,Brighton,False
+13,Brentford,Arsenal,False
 13,Newcastle,Man Utd,False
 13,Spurs,Fulham,False
+14,Chelsea,Liverpool,False
 14,Aston Villa,Crystal Palace,False
 14,Bournemouth,Hull City,False
-14,Brentford,Man City,False
-14,Chelsea,Liverpool,False
-14,Everton,Fulham,False
 14,Leeds,Ipswich Town,False
 14,Man Utd,Coventry City,False
-14,Newcastle,Sunderland,False
 14,Nott'm Forest,Brighton,False
+14,Brentford,Man City,False
+14,Everton,Fulham,False
+14,Newcastle,Sunderland,False
 14,Spurs,Arsenal,False
-15,Arsenal,Bournemouth,False
-15,Brighton,Everton,False
-15,Coventry City,Aston Villa,False
-15,Crystal Palace,Man Utd,False
 15,Fulham,Brentford,False
-15,Hull City,Spurs,False
 15,Ipswich Town,Newcastle,False
 15,Liverpool,Leeds,False
 15,Man City,Chelsea,False
+15,Arsenal,Bournemouth,False
+15,Brighton,Everton,False
 15,Sunderland,Nott'm Forest,False
-16,Arsenal,Man Utd,False
-16,Bournemouth,Coventry City,False
+15,Coventry City,Aston Villa,False
+15,Crystal Palace,Man Utd,False
+15,Hull City,Spurs,False
 16,Brentford,Newcastle,False
-16,Brighton,Ipswich Town,False
-16,Chelsea,Aston Villa,False
+16,Bournemouth,Coventry City,False
 16,Leeds,Fulham,False
-16,Liverpool,Spurs,False
 16,Man City,Hull City,False
 16,Nott'm Forest,Everton,False
+16,Liverpool,Spurs,False
+16,Brighton,Ipswich Town,False
 16,Sunderland,Crystal Palace,False
+16,Arsenal,Man Utd,False
+16,Chelsea,Aston Villa,False
 17,Aston Villa,Leeds,False
 17,Everton,Sunderland,False
 17,Fulham,Brighton,False
