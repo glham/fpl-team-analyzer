@@ -69,16 +69,16 @@ event,home,away,started
 7,Leeds,Man Utd,True
 7,Nott'm Forest,Arsenal,True
 7,Spurs,Coventry City,True
-8,Ipswich Town,Nott'm Forest,False
-8,Aston Villa,Man City,False
-8,Arsenal,Everton,False
-8,Coventry City,Fulham,False
-8,Chelsea,Spurs,False
-8,Crystal Palace,Newcastle,False
-8,Hull City,Brentford,False
-8,Liverpool,Brighton,False
-8,Man Utd,Bournemouth,False
-8,Sunderland,Leeds,False
+8,Ipswich Town,Nott'm Forest,True
+8,Aston Villa,Man City,True
+8,Arsenal,Everton,True
+8,Coventry City,Fulham,True
+8,Chelsea,Spurs,True
+8,Crystal Palace,Newcastle,True
+8,Hull City,Brentford,True
+8,Liverpool,Brighton,True
+8,Man Utd,Bournemouth,True
+8,Sunderland,Leeds,True
 9,Chelsea,Man Utd,False
 9,Bournemouth,Leeds,False
 9,Brentford,Nott'm Forest,False
